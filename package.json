@@ -1,0 +1,15 @@
+{
+  "name": "ghosts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ghosts.js",
+  "scripts": {
+    "start": "node ghosts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0"
+  }
+}
