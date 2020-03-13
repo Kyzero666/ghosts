@@ -191,4 +191,4 @@ ghosts.on('message', function(message) {
 
 });
 
-ghosts.login(process.env.ghosts_TOKEN);
+ghosts.login(process.env.GHOSTS_TOKEN);
